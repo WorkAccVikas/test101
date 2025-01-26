@@ -1,2 +1,2 @@
-/* eslint-disable no-console */
-console.log('Hello World 2');
+// eslint-disable-next-line no-console
+console.log('Hello World 3');
