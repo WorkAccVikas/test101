@@ -1,0 +1,4 @@
+npm i -D eslint eslint-config-prettier eslint-plugin-prettier
+
+npx eslint --init
+
