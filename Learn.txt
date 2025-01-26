@@ -2,3 +2,6 @@ npm i -D eslint eslint-config-prettier eslint-plugin-prettier
 
 npx eslint --init
 
+https://chatgpt.com/share/67963edd-6334-800f-b4cf-e6a588cdc8a9
+
+https://chatgpt.com/share/67963ef8-8088-800f-a82f-c6e2522d086e

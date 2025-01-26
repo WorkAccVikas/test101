@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
-import mongoose from 'mongoose';
-import { DB_NAME } from '../constants.js';
+import mongoose from "mongoose";
+import { DB_NAME } from "../constants.js";
 
 const connectDB = async () => {
   try {
@@ -12,7 +12,7 @@ const connectDB = async () => {
       `\n ✅✅✅ MongoDB Connected! ✅✅✅ \n☘️  DB HOST: ${connectionInstance.connection.host} ☘️\n`
     );
   } catch (error) {
-    console.log('❌❌❌ Unable to connect to MongoDB ❌❌❌', error);
+    console.log("❌❌❌ Unable to connect to MongoDB ❌❌❌", error);
     process.exit(1);
   }
 };

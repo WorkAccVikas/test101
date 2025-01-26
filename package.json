@@ -14,11 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "lint-staged": {
-    "*.js": [
-      "npm run lint:fix"
-    ]
-  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
